@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0e7da625_002De781_002D42a0_002Dbbc9_002Dcb98c6e09a86/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Cesar_ApplyWithShift0_ReturnsSameString #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::91E1AE3D-2B20-4D56-9FD8-D3E223C1B0B6::net8.0::Crypto1Tests.UnitTest1.Cesar_ApplyWithShift0_ReturnsSameString&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a48a78a_002D781d_002D44af_002Db1ea_002D1e709b7b9ae3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Cesar_ApplyWithShift0_ReturnsSameString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\p-mih\RiderProjects\Crypto1\Crypto1Tests" Presentation="&amp;lt;Crypto1Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
